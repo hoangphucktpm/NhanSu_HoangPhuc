@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NhanSu_HoangPhuc:jar">
+    <output-path>$PROJECT_DIR$/../NhanSnSu_HoangPhuc_Client/lib</output-path>
+    <root id="archive" name="NhanSu_HoangPhuc.jar">
+      <element id="module-output" name="NhanSu_HoangPhuc" />
+    </root>
+  </artifact>
+</component>
